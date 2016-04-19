@@ -9,3 +9,5 @@
 ### 4 [工厂模式](https://github.com/luofengmacheng/design_pattern/blob/master/factory.md)
 
 ### 5 [单例模式](https://github.com/luofengmacheng/design_pattern/blob/master/singleton.md)
+
+### 6 [命令模式](https://github.com/luofengmacheng/design_pattern/blob/master/command.md)
