@@ -11,3 +11,5 @@
 ### 5 [单例模式](https://github.com/luofengmacheng/design_pattern/blob/master/singleton.md)
 
 ### 6 [命令模式](https://github.com/luofengmacheng/design_pattern/blob/master/command.md)
+
+### 7 [适配器模式](https://github.com/luofengmacheng/design_pattern/blob/master/iterator.md)
