@@ -13,3 +13,5 @@
 ### 6 [命令模式](https://github.com/luofengmacheng/design_pattern/blob/master/command.md)
 
 ### 7 [适配器模式](https://github.com/luofengmacheng/design_pattern/blob/master/iterator.md)
+
+### 8 [模版方法模式](https://github.com/luofengmacheng/design_pattern/blob/master/template.md)
