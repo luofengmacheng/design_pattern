@@ -17,3 +17,5 @@
 ### 8 [模版方法模式](https://github.com/luofengmacheng/design_pattern/blob/master/template.md)
 
 ### 9 [迭代器模式](https://github.com/luofengmacheng/design_pattern/blob/master/iterator.md)
+
+### 10 [状态模式](https://github.com/luofengmacheng/design_pattern/blob/master/state.md)
